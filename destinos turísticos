@@ -1,0 +1,73 @@
+<html>
+<head>
+<meta name="description"content= "cultura y turismo en Ecuador">
+<meta name="keywords"content= "cultura y turismo en Ecuador">
+
+<a href="index.html"><img src="a.png"width="400" height="400" alt="logo de nuestra página web"></a>
+<a href="index.html"></a> <a href="destinos turísticos.html"><img src="e.png"width="250"height="250" alt="boton de destinos turisticos"></a> <a href="datos culturales.html"><img src="i.png"width="250"height="250" alt="boton de datos culturales"></a> <a href="contacto.html"><img src="o.png"width="250"height="250" alt="boton de contacto"></a>
+
+<title>Ecua-turismo </title>
+<center>
+</head>
+
+<body bgcolor="WHITE" text="black">
+<h1><center><font face= "Gabi Estudies">Los Mejores Lugares Turísticos</font face= "Gabi Estudies"></center></h1>
+<p>
+<center><table border="1"></center>
+	<tr> 
+	<td>Top 5</td>
+	<td>Ubicaciones</td>
+	<td>Características</tr>
+</table></center>
+<p> Este sitio web es el mejor lugar para investigar y conocer!</p>
+<p><h3>GALÁPAGOS</p></h3>
+<center><img src="imagenes/1.jpg"></center>
+<p>La Isla Galápagos es una de las provincias pertenecientes en Ecuador.
+Esta provincia es el lugar turístico de preferencia para la mayoría de extranjeros.
+Es conocida y denominada como "Las Islas Encantadas, muy conocida por los estudios que realizó Charles Darwin en usca de la teoría evolutiva.
+Galápagos es considerada como Patrimonio Cultural debido a su belleza, la diversidad y singularidad de especies que alberga, su origen volcánico, su dinámica geológica con permanentes cambios y variedad de formaciones, el ser considerado un laboratorio vivo de procesos evolutivos aún en marcha, sumado a que dio cabida para el desarrollo de un gran número .de especies tanto animales como vegetales que no existen en ningún otro lugar del mundo, convierten a Galápagos en un sitio muy singular y de importancia mundial para la herencia común de la humanidad.</p>
+<center><img src="imagenes/3.jpg"></center>
+
+<p><h3>CUENCA</b></h3>
+<center><img src="imagenes/Blue and Light Yellow Photographic Charity  Non-Proft Non-Profit Website.jpg"widt="2500"height="650"></center> 
+
+<p>Cuenca es una de las ciudades más encantadoras entre todas las ciudades de Ecuador. Sus calles empedradas, sus catedrales antiguas, sus parques coloniales y los ríos que la atraviesan, te brindan un aire antiguo señorial.
+	<h1>Destinos turísticos más atractivos de Cuenca</h1>
+<center><img src="imagenes/cuencai.png"></center> 
+
+<p><h3>TULCAN</h3></p>
+
+<center><img src="imagenes/TULCAN.png"></center> 
+<center><img src="imagenes/tulcani.png"></center> 
+<p><h3>QUITO</h3></p>
+<center><img src="imagenes/QUITO.png"></center> 
+<center><img src="imagenes/quitos.png"></center> 
+<p><h3>GUAYAQUIL</h3></p>
+<center><img src="imagenes/g.png"></center> 
+<center><img src="imagenes/BHK.png"></center> 
+<center><img src="imagenes/HJK.png"></center> 
+
+
+
+<p><b><i>Descripción y tareas a desarrollar</p></i></b>
+
+ <p><font color="black">
+ 	Ecuador como sitio web, te ofrece los mejores destinos turisticos y las mejores historias de un país megadiverso en todos sus aspectos, tanto como demográficos y culturales, Ecuatorial prioriza en brindar con todos los medios necesarios una orientación e información de alta relevancia sobre el país, este proyecto, se dirige  a todas las personas que estén interesadas, no solamente en el turismo sino también en la diversidad cultural, obteniendo como resultado la oportunidad de poder destacar los aspectos más importantes y asombrosos de la cultura ecuatoriana mientras que la comunidad se encuentre en línea, la página web tiene la capacidad de un alcance mayoritario a nivel global, es por esto que promover la cultura impulsa el interés del turismo en las personas. Usar la herramienta virtual del diseño de la página web en este mundo actualizado, tiene beneficios como unirse a navegar en una sociedad digitalizada, con ganas de descubrir un mundo y con ganas de saciar su sed de información.
+
+<h4><i>Tareas a desarrollar</h4></i>
+<p>	Brindar información relevante de los lugares más atractivos del Ecuador a través de mi página web.
+<p>	Promover el turismo e incentivar a las personas que no lo practican.
+<p>	Brindar datos culturales.
+<p>	Referenciar la historia.
+	
+</p></font>
+
+
+<p><h4><FONT FACE="times New Roman">¡Síguenos en nuestras redes sociales como!:</h4>
+
+<p> * @ecua-turismo *
+</p>
+
+<center><img src="imagenes/fb.logo.jpg"width="50" height="50"><img src="imagenes/descarga.jpg"width="50" height="50"><img src="imagenes/pinterest.jpg"width="56"height="56"></center>  
+</body>
+</html>
